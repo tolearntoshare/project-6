@@ -39,7 +39,8 @@ if($user->isUserActiveByUserName($_SESSION['username'])){
     echo " you are active ";
         echo " Now fill you Application ";
     
-    
+    echo "HI ".$_SESSION['username'];
+
 }
 else
 {
