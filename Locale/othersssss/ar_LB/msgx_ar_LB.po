@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-10-07 15:29+0300\n"
+"PO-Revision-Date: 2017-10-07 15:29+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar_LB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: back.php\n"
+
+#: back.php:44
+msgid "ayman"
+msgstr "ايمن الاول"
+
+#: back.php:46
+msgid "Xayman"
+msgstr "الاكس ايمن "
+
+#: back.php:48
+msgid "Xalqudah"
+msgstr "القضاة الاكس"
+
+#: back.php:50
+msgid "XALLAH AKBAR"
+msgstr "الله اكبر"

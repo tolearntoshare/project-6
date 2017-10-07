@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: A\n"
+"POT-Creation-Date: 2017-10-07 16:40+0300\n"
+"PO-Revision-Date: 2017-10-07 17:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: a\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: WORK_FINE.php\n"
+
+#: WORK_FINE.php:43
+msgid "ayman"
+msgstr "nETHR LAND TEXT AYMAN"
+
+#: WORK_FINE.php:45
+msgid "xayman"
+msgstr "nNETHR LAND TEXT XAYMAN"
+
+#: WORK_FINE.php:47
+msgid "Xalqudah"
+msgstr "nNETHR LAND TEXT ALQUDAH"
+
+#: WORK_FINE.php:49
+msgid "ALLAH AKBAR"
+msgstr "nNETHR LAND TEXT ALLAH AJBABBBBBBBBBBBBBBBBBBBBBBBR"
+
+#: WORK_FINE.php:51
+msgid "This is me to be translater again and again"
+msgstr "nNETHR LAND TEXT 100000000000000000000000000000000000"
+
+#: WORK_FINE.php:53
+msgid "this item in your cart already !"
+msgstr "nNETHR LAND TEXT MAWJOOOOOOOOOOOOOOOOOOD!"
+
+#, fuzzy
+#~| msgid "ayman"
+#~ msgid "Xayman"
+#~ msgstr "ايمن عبد"
