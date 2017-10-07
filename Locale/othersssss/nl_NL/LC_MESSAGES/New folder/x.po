@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-10-07 13:00+0300\n"
+"PO-Revision-Date: 2017-10-07 13:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: satack.php\n"
+
+#: satack.php:37
+msgid "ayman"
+msgstr "ايمن"
+
+#: satack.php:39
+msgid "alqudah"
+msgstr "القضاة"
+
+#~ msgid "HIIII"
+#~ msgstr "HALLO WERELDAAAAAAAA"
+
+#, fuzzy
+#~| msgid "Do it once man this is nice"
+#~ msgid "Do it once man, this is nice"
+#~ msgstr "HALLO WERELDZZZZZZZZZ"
+
+#~ msgid "HELLO WORLD"
+#~ msgstr "HALLO WERELDXXXXX"

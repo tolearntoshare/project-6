@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-10-07 09:03+0300\n"
+"PO-Revision-Date: 2017-10-07 09:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar_JO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: ar.php\n"
+
+#: ar.php:14
+msgid "<br> hi this to be translated 2 "
+msgstr "مرحبا عظروكيوس 111"
+
+#: ar.php:36
+msgid "<br>HELLO_WORLD"
+msgstr "هلو بالحبايب 1"
+
+#: ar.php:37
+msgid "<br>hi this to be translated 2222 "
+msgstr "الوثيقة تحتاج الى ترجمة"
